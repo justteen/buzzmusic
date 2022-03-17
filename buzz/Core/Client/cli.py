@@ -4,9 +4,9 @@ from config import (API_HASH, API_ID, BOT_TOKEN, LOG_SESSION, STRING1, STRING2,
                     STRING3, STRING4, STRING5)
 
 app = Client(
-    "buzzMusicBot",
-    API_ID,
-    API_HASH,
+    "buzzmusic",
+    api_id=API_ID,
+    api_hash=API_HASH,
     bot_token=BOT_TOKEN,
 )
 
