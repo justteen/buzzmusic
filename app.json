@@ -142,4 +142,5 @@
         }
     },
     "stack": "container"
+    "heroku stack":"heroku-20"
 }
