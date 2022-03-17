@@ -18,7 +18,7 @@ from config import (MUSIC_BOT_NAME, OWNER_ID, STRING1, STRING2, STRING3,
                     STRING4, STRING5, SUDO_USERS, UPSTREAM_BRANCH,
                     UPSTREAM_REPO, get_queue)
 from buzz.Core.Clients.cli import (ASS_CLI_1, ASS_CLI_2, ASS_CLI_3, ASS_CLI_4,
-                                    ASS_CLI_5, LOG_CLIENT, app)
+                                    ASS_CLI_5, LOG_CLIENT)
 from buzz.Utilities.changers import time_to_seconds
 from buzz.Utilities.tasks import install_requirements
 
